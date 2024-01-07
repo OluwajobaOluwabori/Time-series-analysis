@@ -1,5 +1,5 @@
 # Time-series-analysis
-We explore and build time series forecasting models for measurements of electric power consumption in one household with a one-minute sampling 
+I explored and built a time series forecasting model for measurements of electric power consumption in one household with a one-minute sampling 
 rate over a period of almost 4 years.
 This data represents a multivariate time series of power-related variables which could in turn be used to model, and even forecast future electricity consumption.
 
