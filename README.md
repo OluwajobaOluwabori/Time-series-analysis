@@ -1,3 +1,8 @@
+## Kaggle Project Statement
+Often times, we always ask how do these National Electricity Distribution agencies measure and generate the bills the serve to their customers. Out of our inquisitive nature as man, we would realy like to know. It is not rocket science - because our bills are generated based on energy consumption in our household over a given period of time. So, how can i know what contribute to most energy consumption in my household? This is an important question that requires a holistic answer.
+
+Context: Measurements of electric power consumption in one household with a one-minute sampling rate over a period of almost 4 years. Different electrical quantities and some sub-metering values are available.
+
 # Time-series-analysis
 I explored and built a time series forecasting model for measurements of electric power consumption in one household with a one-minute sampling 
 rate over a period of almost 4 years.
